@@ -15,9 +15,9 @@ This website showcases my **projects, skills, and learning journey** in Python a
 7. **Image Watermark App (python,tkinter)**- A Python desktop application using Tkinter that lets users add text or image watermarks to pictures.
 8. **Typing speed test (python)** - A Tkinter GUI app to test typing speed and accuracy.
 9. **Breakout Game (python)** - A classic arcade-style game built using Python Turtle.Features paddle control, brick-breaking mechanics, scoring system, and restart functionality.
-10.**To-Do List App** - A simple and interactive To-Do List web application.Users can add tasks, mark them as complete, and delete tasks dynamically.
-11.**Dangerous Writing App** - A python Tkinter desktop app that helps users stay focused while writing.If user stops typing for 5 seconds , all text is automatically deleted.
-12.**PDF to Audiobook converter** - Built a Python application to convert PDF documents into audio.
+10. **To-Do List App** - A simple and interactive To-Do List web application.Users can add tasks, mark them as complete, and delete tasks dynamically.
+11. **Dangerous Writing App** - A python Tkinter desktop app that helps users stay focused while writing.If user stops typing for 5 seconds , all text is automatically deleted.
+12. **PDF to Audiobook converter** - Built a Python application to convert PDF documents into audio.
 
 
 ## Skills Highlighted
