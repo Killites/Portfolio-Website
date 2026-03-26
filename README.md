@@ -18,6 +18,7 @@ This website showcases my **projects, skills, and learning journey** in Python a
 10. **To-Do List App** - A simple and interactive To-Do List web application.Users can add tasks, mark them as complete, and delete tasks dynamically.
 11. **Dangerous Writing App** - A python Tkinter desktop app that helps users stay focused while writing.If user stops typing for 5 seconds , all text is automatically deleted.
 12. **PDF to Audiobook converter** - Built a Python application to convert PDF documents into audio.
+13. **Color Palette Extractor** - Built a web application using Python and Flask that allows users to upload an image and extract the top 10 dominant colors.
 
 
 ## Skills Highlighted
