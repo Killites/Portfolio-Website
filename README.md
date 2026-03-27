@@ -19,6 +19,7 @@ This website showcases my **projects, skills, and learning journey** in Python a
 11. **Dangerous Writing App** - A python Tkinter desktop app that helps users stay focused while writing.If user stops typing for 5 seconds , all text is automatically deleted.
 12. **PDF to Audiobook converter** - Built a Python application to convert PDF documents into audio.
 13. **Color Palette Extractor** - Built a web application using Python and Flask that allows users to upload an image and extract the top 10 dominant colors.
+14. **Web Scraper** - Python Web scraper that collects and stores website data into a csv file.
 
 
 ## Skills Highlighted
