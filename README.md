@@ -20,6 +20,7 @@ This website showcases my **projects, skills, and learning journey** in Python a
 12. **PDF to Audiobook converter** - Built a Python application to convert PDF documents into audio.
 13. **Color Palette Extractor** - Built a web application using Python and Flask that allows users to upload an image and extract the top 10 dominant colors.
 14. **Web Scraper** - Python Web scraper that collects and stores website data into a csv file.
+15. **Dinosaur Game**- Built a Python automation bot to play the Chrome Dinosaur Game using PyAutoGUI.
 
 
 ## Skills Highlighted
