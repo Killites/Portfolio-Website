@@ -22,6 +22,7 @@ This website showcases my **projects, skills, and learning journey** in Python a
 14. **Web Scraper** - Python Web scraper that collects and stores website data into a csv file.
 15. **Dinosaur Game**- Built a Python automation bot to play the Chrome Dinosaur Game using PyAutoGUI.
 16.**Space Invaders** - Built a classic Space Invaders arcade game using Python Turtle.Implemented player controls, shooting mechanics, enemy movement, and collision detection.
+17.**Dictionary App** - Built a Dictionary Web App using Flask and a public API that allows users to search for word meanings in real time.
 
 
 ## Skills Highlighted
