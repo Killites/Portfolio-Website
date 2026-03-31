@@ -23,6 +23,7 @@ This website showcases my **projects, skills, and learning journey** in Python a
 15. **Dinosaur Game**- Built a Python automation bot to play the Chrome Dinosaur Game using PyAutoGUI.
 16.**Space Invaders** - Built a classic Space Invaders arcade game using Python Turtle.Implemented player controls, shooting mechanics, enemy movement, and collision detection.
 17.**Dictionary App** - Built a Dictionary Web App using Flask and a public API that allows users to search for word meanings in real time.
+18.**SmartBuy** - Built a Flask-based eCommerce website with product listing, cart functionality, and Stripe payment integration. Designed a clean and responsive UI inspired by modern shopping platforms.
 
 
 ## Skills Highlighted
