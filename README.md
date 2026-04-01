@@ -24,6 +24,7 @@ This website showcases my **projects, skills, and learning journey** in Python a
 16.**Space Invaders** - Built a classic Space Invaders arcade game using Python Turtle.Implemented player controls, shooting mechanics, enemy movement, and collision detection.
 17.**Dictionary App** - Built a Dictionary Web App using Flask and a public API that allows users to search for word meanings in real time.
 18.**SmartBuy** - Built a Flask-based eCommerce website with product listing, cart functionality, and Stripe payment integration. Designed a clean and responsive UI inspired by modern shopping platforms.
+19.**Search bot** - Built using python and selenium that opens a browser, performs a search query, and clicks on the first result automatically.
 
 
 ## Skills Highlighted
