@@ -26,6 +26,7 @@ This website showcases my **projects, skills, and learning journey** in Python a
 18. **SmartBuy** - Built a Flask-based eCommerce website with product listing, cart functionality, and Stripe payment integration. Designed a clean and responsive UI inspired by modern shopping platforms.
 19. **Search bot** - Built using python and selenium that opens a browser, performs a search query, and clicks on the first result automatically.
 20. **Space Missions Data Analysis**- Analyzed global space mission data using Python (Pandas, Matplotlib) in Google Colab. Cleaned and visualized data to identify trends in launches, mission success rates, and costs over time.
+21. **Police Shootings Data Analysis (USA)**- Analyzed police-related deaths in the United States by combining Washington Post and U.S. Census data. Performed data cleaning, merging, and visualization to explore relationships between socio-economic factors like income, poverty, and fatalities.
 
 
 ## Skills Highlighted
