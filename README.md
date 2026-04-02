@@ -21,10 +21,11 @@ This website showcases my **projects, skills, and learning journey** in Python a
 13. **Color Palette Extractor** - Built a web application using Python and Flask that allows users to upload an image and extract the top 10 dominant colors.
 14. **Web Scraper** - Python Web scraper that collects and stores website data into a csv file.
 15. **Dinosaur Game**- Built a Python automation bot to play the Chrome Dinosaur Game using PyAutoGUI.
-16.**Space Invaders** - Built a classic Space Invaders arcade game using Python Turtle.Implemented player controls, shooting mechanics, enemy movement, and collision detection.
-17.**Dictionary App** - Built a Dictionary Web App using Flask and a public API that allows users to search for word meanings in real time.
-18.**SmartBuy** - Built a Flask-based eCommerce website with product listing, cart functionality, and Stripe payment integration. Designed a clean and responsive UI inspired by modern shopping platforms.
-19.**Search bot** - Built using python and selenium that opens a browser, performs a search query, and clicks on the first result automatically.
+16. **Space Invaders** - Built a classic Space Invaders arcade game using Python Turtle.Implemented player controls, shooting mechanics, enemy movement, and collision detection.
+17. **Dictionary App** - Built a Dictionary Web App using Flask and a public API that allows users to search for word meanings in real time.
+18. **SmartBuy** - Built a Flask-based eCommerce website with product listing, cart functionality, and Stripe payment integration. Designed a clean and responsive UI inspired by modern shopping platforms.
+19. **Search bot** - Built using python and selenium that opens a browser, performs a search query, and clicks on the first result automatically.
+20. **Space Missions Data Analysis**- Analyzed global space mission data using Python (Pandas, Matplotlib) in Google Colab. Cleaned and visualized data to identify trends in launches, mission success rates, and costs over time.
 
 
 ## Skills Highlighted
