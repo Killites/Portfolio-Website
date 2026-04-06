@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website!  
 
-This website showcases my **projects, skills, and learning journey** in Python and data analysis tools like **SQL, Excel, and Power BI**. It also includes web development projects using **Flask**.
+This website showcases my **projects, skills, and learning journey** in Python and data analysis tools like **SQL, Excel, Power BI and Tableau**. It also includes web development projects using **Flask**.
 
 ## Projects Included
 
@@ -32,7 +32,7 @@ This website showcases my **projects, skills, and learning journey** in Python a
 ## Skills Highlighted
 
 - Python (Flask, general programming)  
-- SQL, Excel, Power BI  
+- SQL, Excel, Power BI , Tableau
 - Web Development (HTML, CSS)  
 - Data Analysis and Visualization  
 
