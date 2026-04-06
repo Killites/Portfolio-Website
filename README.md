@@ -27,7 +27,7 @@ This website showcases my **projects, skills, and learning journey** in Python a
 19. **Search bot** - Built using python and selenium that opens a browser, performs a search query, and clicks on the first result automatically.
 20. **Space Missions Data Analysis**- Analyzed global space mission data using Python (Pandas, Matplotlib) in Google Colab. Cleaned and visualized data to identify trends in launches, mission success rates, and costs over time.
 21. **Police Shootings Data Analysis (USA)**- Analyzed police-related deaths in the United States by combining Washington Post and U.S. Census data. Performed data cleaning, merging, and visualization to explore relationships between socio-economic factors like income, poverty, and fatalities.
-22. ** Washington EV Data Analysis** - Built a Tableau dashboard to analyze Electric Vehicle adoption in Washington, providing insights into growth trends, vehicle distribution, and regional patterns through data visualization.
+22. **Washington EV Data Analysis** - Built a Tableau dashboard to analyze Electric Vehicle adoption in Washington, providing insights into growth trends, vehicle distribution, and regional patterns through data visualization.
 
 
 ## Skills Highlighted
