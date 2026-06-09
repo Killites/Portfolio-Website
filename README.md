@@ -29,7 +29,7 @@ This website showcases my **projects, skills, and learning journey** in Python a
 21. **Police Shootings Data Analysis (USA)**- Analyzed police-related deaths in the United States by combining Washington Post and U.S. Census data. Performed data cleaning, merging, and visualization to explore relationships between socio-economic factors like income, poverty, and fatalities.
 22. **Washington EV Data Analysis** - Built a Tableau dashboard to analyze Electric Vehicle adoption in Washington, providing insights into growth trends, vehicle distribution, and regional patterns through data visualization.
 23. **Bike Sales Data Analysis** - Created a Bike Sales Analysis Dashboard in Tableau Public with interactive filters and parameters to explore sales trends, customer segments, and top products.
-
+24. **IPL Dashboard Analysis** - Developed an interactive IPL Cricket Data Analytics dashboard using Tableau Public to analyze match outcomes, toss impact, venue trends from 2008-2024.
 
 ## Skills Highlighted
 
