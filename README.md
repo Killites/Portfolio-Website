@@ -1,10 +1,11 @@
 # Portfolio Website
 
-Welcome to my personal portfolio website!  
+Welcome to My Portfolio!
+Hi, I'm **K. Anto Harini**.
+I enjoy building data analysis dashboards and web applications using **Python, SQL, Excel, Power BI, Tableau, HTML, CSS, and Flask**. This portfolio highlights some of my projects and demonstrates my technical skills through practical, hands-on work.
+Thank you for taking the time to explore my portfolio.
 
-This website showcases my **projects, skills, and learning journey** in Python and data analysis tools like **SQL, Excel, Power BI and Tableau**. It also includes web development projects using **Flask**.
-
-## Projects Included
+## Featured Projects 
 
 1. **Blog Capstone Project** – A full-featured blog application built with Flask.
 2. **Coffee &  Wi-Fi Finder (Python)** - Built a web application using Flask and SQLite to help users find cafes with Wi-Fi and power for remote working.
