@@ -32,7 +32,8 @@ Thank you for taking the time to explore my portfolio.
 23. **Bike Sales Data Analysis** - Created a Bike Sales Analysis Dashboard in Tableau Public with interactive filters and parameters to explore sales trends, customer segments, and top products.
 24. **IPL Dashboard Analysis** - Developed an interactive IPL Cricket Data Analytics dashboard using Tableau Public to analyze match outcomes, toss impact, venue trends from 2008-2024.
 25. **Superstore Dashboard Analysis** - Interactive Power BI dashboard for analyzing Superstore sales, profit,orders, and regional performance using dynamic visualizations and slicers.
-
+26. **AI Data Analysis Assistant** - AI Data Analysis Assistant - Built an interactive Python and Streamlit application that analyzes CSV datasets, generates visualizations, identifies data patterns, and provides AI-powered insights using Gemini.
+    
 ## Skills Highlighted
 
 - Python (Flask, general programming)  
